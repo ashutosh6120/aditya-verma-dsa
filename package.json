@@ -1,0 +1,27 @@
+{
+  "name": "aditya-verma-dsa",
+  "version": "1.0.0",
+  "description": "Implementation of **Aditya Verma's approaches and problem-solving patterns** for DSA.",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutosh6120/aditya-verma-dsa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ashutosh6120/aditya-verma-dsa/issues"
+  },
+  "homepage": "https://github.com/ashutosh6120/aditya-verma-dsa#readme",
+  "devDependencies": {
+    "@types/node": "^26.4.0",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  }
+}
